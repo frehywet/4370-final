@@ -1,0 +1,12 @@
+Package: myRPackage
+Title: counts vowels in a sentence and creates wordcloud
+Version: 0.0.0.9000
+Authors@R: 
+ person(Frehywet, Jekiso, , Frehywet@usf.edu)           
+Description: the package i will be creating is called count_vowels_and_visualize, 
+given a sentence the function counts and returns the total number of vowels in the sentence and also creates a wordcloud vizualization displaying the frequency of each letter by size. 
+
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
